@@ -1,6 +1,0 @@
-To use these codes, the N-body program must be run a least one time to generate the necessary files.
-
-"plot_energ.py" is a python code that plot the evolution of the kinetic, potential and total energies of the system, using a file "energy.dat" that is return by the N-body program in the "output" folder.
-
-"plot_evo.py" is a python code that creat a GIF of the evolution of the system using the file "pos.bin" that is return by the N-body program in the "output" folder.
-
